@@ -13,3 +13,4 @@ To use this application you can go to the link below.
 ![screenshot](Assets/screenshot.jpg)
 
 ## Deployed Link
+https://alexanderlocke.github.io/alocke-scheduler/
