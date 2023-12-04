@@ -10,6 +10,6 @@ When users open the application they are greeted with rows for the standard busi
 To use this application you can go to the link below.
 
 ## Example video
-![Screenshot](screenshot.jpg)
+![Screenshot](assets/screenshot.jpg)
 
 ## Deployed Link
