@@ -58,7 +58,7 @@ function generateTimeBlocks() {
 
 // Function to update the time block colors based on the current time
 function updateBlockColors() {
-  const currentHour = dayjs().hour() + 11;
+  const currentHour = dayjs().hour();
 
   // Loop through each time block to compare with the current hour
   container.find(".time-block").each(function () {
